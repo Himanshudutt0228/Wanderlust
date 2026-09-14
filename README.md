@@ -12,6 +12,10 @@ https://wanderlust-8r2m.onrender.com
 
 HTML, CSS, JavaScript, Node.js, Express.js, EJS, MongoDB, Cloudinary and Mapbox.
 
+## Note
+
+This project is still under development. Some features and category filters are not fully functional yet.
+
 ## Author
 
 Himanshu Dutt
